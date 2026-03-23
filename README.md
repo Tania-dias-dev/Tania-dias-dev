@@ -61,3 +61,7 @@ const tania = {
 
 - LinkedIn: https://www.linkedin.com/in/t%C3%A2nia-dias-50a657103/
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1B998B&text=%20&textBg=false&section=footer">
+</p>
+
